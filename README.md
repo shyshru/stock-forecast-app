@@ -41,15 +41,26 @@ This project leverages:
 ## 📁 Project Structure
 
 stock-forecast-app/
+
 ├── backend/
+
 │   └── main.py, model_utils.py, venv, etc.
+
 ├── frontend/
+
 │   ├── public/
+
 │   ├── src/
+
 │   │   ├── components/
+
 │   │   │   └── Chart.js
+
 │   │   └── App.js
+
 │   ├── tailwind.config.js
+
 │   ├── postcss.config.js
+
 │   └── package.json
 
